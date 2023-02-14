@@ -13,5 +13,4 @@ def unique(my_list):
         if(y == 1):
             l.append(x)
     return l
-
 print(unique(my_list))
